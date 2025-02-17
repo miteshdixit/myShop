@@ -1,0 +1,702 @@
+2024-11-14T09:11:56.830Z [error]: Database connection error:  connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2024-11-14T09:14:36.019Z [info]: Database connected
+2024-11-14T09:14:36.027Z [info]: Server is running on port 2000
+2024-11-14T09:29:12.439Z [info]: Database connected
+2024-11-14T09:29:12.447Z [info]: Server is running on port 2000
+2024-11-14T09:30:37.661Z [info]: Database connected
+2024-11-14T09:30:37.669Z [info]: Server is running on port 2000
+2024-11-14T09:32:00.093Z [info]: Database connected
+2024-11-14T09:32:00.101Z [info]: Server is running on port 2000
+2024-11-14T09:33:19.000Z [info]: Database connected
+2024-11-14T09:33:19.008Z [info]: Server is running on port 2000
+2024-11-14T09:39:51.979Z [info]: Database connected
+2024-11-14T09:39:51.984Z [info]: Server is running on port 2000
+2024-11-14T09:43:43.566Z [info]: Database connected
+2024-11-14T09:43:43.571Z [info]: Server is running on port 2000
+2024-11-14T09:44:32.660Z [info]: Database connected
+2024-11-14T09:44:32.665Z [info]: Server is running on port 2000
+2024-11-14T09:44:58.545Z [info]: Database connected
+2024-11-14T09:44:58.554Z [info]: Server is running on port 2000
+2024-11-14T09:45:05.094Z [info]: Database connected
+2024-11-14T09:45:05.100Z [info]: Server is running on port 2000
+2024-11-14T09:45:29.463Z [info]: Database connected
+2024-11-14T09:45:29.471Z [info]: Server is running on port 2000
+2024-11-14T09:46:39.853Z [info]: Database connected
+2024-11-14T09:46:39.861Z [info]: Server is running on port 2000
+2024-11-14T09:47:39.516Z [info]: Database connected
+2024-11-14T09:47:39.526Z [info]: Server is running on port 2000
+2024-11-14T09:49:04.218Z [info]: Database connected
+2024-11-14T09:49:04.227Z [info]: Server is running on port 2000
+2024-11-14T09:57:40.889Z [info]: Database connected
+2024-11-14T09:57:40.895Z [info]: Server is running on port 2000
+2024-11-14T09:58:10.784Z [info]: Database connected
+2024-11-14T09:58:10.788Z [info]: Server is running on port 2000
+2024-11-14T09:59:15.836Z [info]: Database connected
+2024-11-14T09:59:15.842Z [info]: Server is running on port 2000
+2024-11-14T10:00:46.081Z [info]: Database connected
+2024-11-14T10:00:46.084Z [info]: Server is running on port 2000
+2024-11-14T10:01:24.418Z [info]: Database connected
+2024-11-14T10:01:24.423Z [info]: Server is running on port 2000
+2024-11-14T10:05:31.701Z [info]: Database connected
+2024-11-14T10:05:31.708Z [info]: Server is running on port 2000
+2024-11-14T10:06:29.482Z [info]: Database connected
+2024-11-14T10:06:29.489Z [info]: Server is running on port 2000
+2024-11-14T10:09:57.434Z [info]: Database connected
+2024-11-14T10:09:57.441Z [info]: Server is running on port 2000
+2024-11-14T10:10:45.624Z [info]: Database connected
+2024-11-14T10:10:45.632Z [info]: Server is running on port 2000
+2024-11-14T10:11:30.207Z [info]: Database connected
+2024-11-14T10:11:30.211Z [info]: Server is running on port 2000
+2024-11-14T10:11:39.331Z [info]: Database connected
+2024-11-14T10:11:39.340Z [info]: Server is running on port 2000
+2024-11-14T10:12:14.625Z [info]: Database connected
+2024-11-14T10:12:14.629Z [info]: Server is running on port 2000
+2024-11-14T10:14:21.869Z [info]: Database connected
+2024-11-14T10:14:21.876Z [info]: Server is running on port 2000
+2024-11-14T10:14:49.013Z [info]: Database connected
+2024-11-14T10:14:49.022Z [info]: Server is running on port 2000
+2024-11-14T10:15:20.207Z [info]: Database connected
+2024-11-14T10:15:20.214Z [info]: Server is running on port 2000
+2024-11-14T10:16:50.355Z [info]: Database connected
+2024-11-14T10:16:50.359Z [info]: Server is running on port 2000
+2024-11-14T10:16:56.502Z [info]: Database connected
+2024-11-14T10:16:56.505Z [info]: Server is running on port 2000
+2024-11-14T10:16:59.801Z [info]: Database connected
+2024-11-14T10:16:59.805Z [info]: Server is running on port 2000
+2024-11-14T10:17:06.271Z [info]: Database connected
+2024-11-14T10:17:06.278Z [info]: Server is running on port 2000
+2024-11-14T10:17:58.323Z [info]: Database connected
+2024-11-14T10:17:58.329Z [info]: Server is running on port 2000
+2024-11-14T10:18:01.184Z [info]: Database connected
+2024-11-14T10:18:01.188Z [info]: Server is running on port 2000
+2024-11-14T10:31:53.465Z [info]: Database connected
+2024-11-14T10:31:53.476Z [info]: Server is running on port 2000
+2024-11-14T10:32:37.219Z [info]: Database connected
+2024-11-14T10:32:37.226Z [info]: Server is running on port 2000
+2024-11-14T10:32:50.486Z [info]: Database connected
+2024-11-14T10:32:50.495Z [info]: Server is running on port 2000
+2024-11-14T10:33:37.858Z [info]: Database connected
+2024-11-14T10:33:37.866Z [info]: Server is running on port 2000
+2024-11-14T10:36:18.052Z [info]: Database connected
+2024-11-14T10:36:18.059Z [info]: Server is running on port 2000
+2024-11-14T10:36:24.644Z [info]: Database connected
+2024-11-14T10:36:24.653Z [info]: Server is running on port 2000
+2024-11-14T10:36:29.611Z [info]: Database connected
+2024-11-14T10:36:29.618Z [info]: Server is running on port 2000
+2024-11-14T10:53:40.550Z [info]: Database connected
+2024-11-14T10:53:40.560Z [info]: Server is running on port 2000
+2024-11-14T10:56:18.386Z [info]: Database connected
+2024-11-14T10:56:18.396Z [info]: Server is running on port 2000
+2024-11-14T10:56:33.296Z [info]: Database connected
+2024-11-14T10:56:33.312Z [info]: Server is running on port 2000
+2024-11-14T11:00:11.830Z [info]: New user registered: miteshdixit741@gmail.com
+2024-11-14T11:14:03.369Z [error]: jwtConfig is not defined
+2024-11-14T11:14:13.341Z [info]: Database connected
+2024-11-14T11:14:13.347Z [info]: Server is running on port 2000
+2024-11-14T11:14:49.445Z [error]: jwtConfig is not defined
+2024-11-14T11:15:37.920Z [info]: Database connected
+2024-11-14T11:15:37.934Z [info]: Server is running on port 2000
+2024-11-14T11:15:48.640Z [error]: jwtConfig is not defined
+2024-11-14T11:16:33.987Z [info]: Database connected
+2024-11-14T11:16:33.995Z [info]: Server is running on port 2000
+2024-11-14T11:16:37.680Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T11:37:52.694Z [info]: Database connected
+2024-11-14T11:37:52.706Z [info]: Server is running on port 2000
+2024-11-14T11:38:19.716Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T11:45:04.020Z [info]: Database connected
+2024-11-14T11:45:04.031Z [info]: Server is running on port 2000
+2024-11-14T11:45:52.215Z [info]: Database connected
+2024-11-14T11:45:52.225Z [info]: Server is running on port 2000
+2024-11-14T11:47:11.009Z [info]: Database connected
+2024-11-14T11:47:11.017Z [info]: Server is running on port 2000
+2024-11-14T11:48:00.864Z [info]: Database connected
+2024-11-14T11:48:00.873Z [info]: Server is running on port 2000
+2024-11-14T11:49:14.289Z [info]: Database connected
+2024-11-14T11:49:14.301Z [info]: Server is running on port 2000
+2024-11-14T11:49:27.471Z [info]: Database connected
+2024-11-14T11:49:27.479Z [info]: Server is running on port 2000
+2024-11-14T11:53:42.020Z [info]: Database connected
+2024-11-14T11:53:42.030Z [info]: Server is running on port 2000
+2024-11-14T12:49:22.170Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T14:04:58.028Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T14:05:36.920Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T14:07:16.724Z [info]: Database connected
+2024-11-14T14:07:16.733Z [info]: Server is running on port 2000
+2024-11-14T14:07:46.281Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T14:09:47.312Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T15:10:20.925Z [info]: Database connected
+2024-11-14T15:10:20.935Z [info]: Server is running on port 2000
+2024-11-14T15:23:38.033Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T15:26:17.604Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T15:29:03.717Z [info]: Database connected
+2024-11-14T15:29:03.725Z [info]: Server is running on port 2000
+2024-11-14T15:29:34.010Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T15:32:25.265Z [info]: Database connected
+2024-11-14T15:32:25.273Z [info]: Server is running on port 2000
+2024-11-14T15:32:54.310Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T15:41:03.101Z [info]: Database connected
+2024-11-14T15:41:03.111Z [info]: Server is running on port 2000
+2024-11-14T15:41:14.096Z [info]: Database connected
+2024-11-14T15:41:14.103Z [info]: Server is running on port 2000
+2024-11-14T15:41:15.726Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:30:35.272Z [info]: Database connected
+2024-11-14T18:30:35.283Z [info]: Server is running on port 2000
+2024-11-14T18:30:53.778Z [info]: Database connected
+2024-11-14T18:30:53.787Z [info]: Server is running on port 2000
+2024-11-14T18:37:15.976Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:45:06.575Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:46:18.018Z [info]: Database connected
+2024-11-14T18:46:18.026Z [info]: Server is running on port 2000
+2024-11-14T18:46:41.073Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:46:57.222Z [info]: Database connected
+2024-11-14T18:46:57.231Z [info]: Server is running on port 2000
+2024-11-14T18:47:29.525Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:48:03.494Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:48:24.764Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:49:13.373Z [info]: Database connected
+2024-11-14T18:49:13.384Z [info]: Server is running on port 2000
+2024-11-14T18:49:20.304Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:50:05.702Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:51:16.214Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T18:55:21.314Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T19:28:46.410Z [info]: Database connected
+2024-11-14T19:28:46.421Z [info]: Server is running on port 2000
+2024-11-14T19:32:43.045Z [info]: Database connected
+2024-11-14T19:32:43.053Z [info]: Server is running on port 2000
+2024-11-14T20:14:59.548Z [info]: Database connected
+2024-11-14T20:14:59.554Z [info]: Server is running on port 2000
+2024-11-14T20:16:51.919Z [info]: Database connected
+2024-11-14T20:16:51.924Z [info]: Server is running on port 2000
+2024-11-14T20:17:18.975Z [info]: Database connected
+2024-11-14T20:17:18.982Z [info]: Server is running on port 2000
+2024-11-14T20:18:26.634Z [info]: Database connected
+2024-11-14T20:18:26.639Z [info]: Server is running on port 2000
+2024-11-14T20:18:37.818Z [info]: Database connected
+2024-11-14T20:18:37.823Z [info]: Server is running on port 2000
+2024-11-14T20:34:59.042Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T21:11:05.551Z [info]: Database connected
+2024-11-14T21:11:05.559Z [info]: Server is running on port 2000
+2024-11-14T21:21:18.022Z [info]: Database connected
+2024-11-14T21:21:18.034Z [info]: Server is running on port 2000
+2024-11-14T21:23:15.876Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T21:40:41.255Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-14T21:43:36.576Z [info]: New user registered: pranjal@gmail.com
+2024-11-14T21:43:58.533Z [info]: New user registered: admin@gmail.com
+2024-11-14T21:46:35.467Z [info]: User logged in: pranjal@gmail.com
+2024-11-14T21:47:09.769Z [info]: User logged in: admin@gmail.com
+2024-11-15T19:32:25.871Z [info]: Database connected
+2024-11-15T19:32:25.880Z [info]: Server is running on port 2000
+2024-11-15T19:33:01.730Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-16T17:27:13.522Z [info]: Database connected
+2024-11-16T17:27:13.526Z [info]: Server is running on port 2000
+2024-11-16T17:30:23.382Z [info]: Database connected
+2024-11-16T17:30:23.387Z [info]: Server is running on port 2000
+2024-11-16T17:30:25.443Z [info]: Database connected
+2024-11-16T17:30:25.449Z [info]: Server is running on port 2000
+2024-11-16T17:30:38.133Z [info]: Database connected
+2024-11-16T17:30:38.138Z [info]: Server is running on port 2000
+2024-11-16T17:30:54.965Z [info]: Database connected
+2024-11-16T17:30:54.972Z [info]: Server is running on port 2000
+2024-11-16T17:31:07.766Z [info]: Database connected
+2024-11-16T17:31:07.773Z [info]: Server is running on port 2000
+2024-11-16T18:05:28.344Z [info]: Database connected
+2024-11-16T18:05:28.352Z [info]: Server is running on port 2000
+2024-11-16T18:16:25.181Z [info]: Database connected
+2024-11-16T18:16:25.185Z [info]: Server is running on port 2000
+2024-11-16T18:40:35.990Z [info]: Database connected
+2024-11-16T18:40:36.002Z [info]: Server is running on port 2000
+2024-11-16T19:07:15.579Z [info]: Database connected
+2024-11-16T19:07:15.590Z [info]: Server is running on port 2000
+2024-11-16T19:07:22.844Z [info]: Database connected
+2024-11-16T19:07:22.851Z [info]: Server is running on port 2000
+2024-11-16T19:12:49.909Z [info]: Database connected
+2024-11-16T19:12:49.915Z [info]: Server is running on port 2000
+2024-11-16T19:12:57.182Z [info]: Database connected
+2024-11-16T19:12:57.192Z [info]: Server is running on port 2000
+2024-11-16T19:13:24.318Z [info]: Database connected
+2024-11-16T19:13:24.328Z [info]: Server is running on port 2000
+2024-11-16T19:16:37.379Z [info]: Database connected
+2024-11-16T19:16:37.387Z [info]: Server is running on port 2000
+2024-11-16T19:17:01.712Z [info]: Database connected
+2024-11-16T19:17:01.722Z [info]: Server is running on port 2000
+2024-11-16T19:17:44.623Z [info]: Database connected
+2024-11-16T19:17:44.638Z [info]: Server is running on port 2000
+2024-11-16T19:18:16.472Z [info]: Database connected
+2024-11-16T19:18:16.483Z [info]: Server is running on port 2000
+2024-11-16T19:18:28.450Z [info]: Database connected
+2024-11-16T19:18:28.461Z [info]: Server is running on port 2000
+2024-11-16T19:18:38.890Z [info]: Database connected
+2024-11-16T19:18:38.901Z [info]: Server is running on port 2000
+2024-11-16T19:25:42.418Z [info]: Database connected
+2024-11-16T19:25:42.430Z [info]: Server is running on port 2000
+2024-11-16T19:37:54.391Z [info]: Database connected
+2024-11-16T19:37:54.399Z [info]: Server is running on port 2000
+2024-11-16T19:37:56.172Z [info]: Database connected
+2024-11-16T19:37:56.181Z [info]: Server is running on port 2000
+2024-11-16T19:41:09.103Z [info]: Database connected
+2024-11-16T19:41:09.112Z [info]: Server is running on port 2000
+2024-11-16T19:41:18.554Z [info]: Database connected
+2024-11-16T19:41:18.559Z [info]: Server is running on port 2000
+2024-11-16T19:44:41.519Z [error]: token is not defined
+2024-11-16T19:45:59.817Z [info]: Database connected
+2024-11-16T19:45:59.825Z [info]: Server is running on port 2000
+2024-11-16T19:46:06.510Z [error]: token is not defined
+2024-11-16T19:47:03.483Z [info]: Database connected
+2024-11-16T19:47:03.493Z [info]: Server is running on port 2000
+2024-11-16T19:47:21.118Z [info]: Database connected
+2024-11-16T19:47:21.126Z [info]: Server is running on port 2000
+2024-11-16T19:47:47.917Z [error]: token is not defined
+2024-11-16T19:48:31.607Z [info]: Database connected
+2024-11-16T19:48:31.615Z [info]: Server is running on port 2000
+2024-11-16T19:48:39.734Z [info]: New Shop registered: dixit dairy21
+2024-11-16T19:54:05.667Z [info]: New Shop registered: dixit dairy
+2024-11-16T19:54:06.049Z [info]: New user registered: MITESHDIXIT2001@GMAIL.COM
+2024-11-16T19:54:44.626Z [info]: New Shop registered: dixit dairy
+2024-11-16T19:55:10.108Z [info]: User logged in: MITESHDIXIT2001@GMAIL.COM
+2024-11-16T20:00:51.470Z [info]: New Shop registered: xyz
+2024-11-16T20:00:51.714Z [info]: New user registered: MITESHDIXIT2003@GMAIL.COM
+2024-11-16T20:01:15.445Z [info]: User logged in: MITESHDIXIT2003@GMAIL.COM
+2024-11-16T20:05:08.703Z [info]: New Shop registered: abc
+2024-11-16T20:05:43.073Z [info]: New Shop registered: abc
+2024-11-16T20:05:43.339Z [info]: New user registered: MITESHDIXIT200@GMAIL.COM
+2024-11-16T20:06:04.079Z [info]: User logged in: MITESHDIXIT200@GMAIL.COM
+2024-11-16T20:07:26.640Z [info]: Database connected
+2024-11-16T20:07:26.652Z [info]: Server is running on port 2000
+2024-11-16T20:08:43.926Z [info]: Database connected
+2024-11-16T20:08:43.937Z [info]: Server is running on port 2000
+2024-11-16T20:09:35.099Z [info]: Database connected
+2024-11-16T20:09:35.110Z [info]: Server is running on port 2000
+2024-11-16T20:09:38.755Z [info]: New Shop registered: erer
+2024-11-16T20:11:08.712Z [info]: New Shop registered: erer
+2024-11-16T20:12:22.609Z [info]: New Shop registered: erer
+2024-11-16T20:12:58.633Z [info]: New Shop registered: erer
+2024-11-16T20:14:20.356Z [info]: New Shop registered: erer
+2024-11-16T20:14:25.730Z [info]: New Shop registered: erer
+2024-11-16T20:14:50.893Z [info]: New Shop registered: erer
+2024-11-16T20:14:51.381Z [info]: New user registered: mitesh123@gmail.com
+2024-11-16T20:15:35.080Z [info]: Database connected
+2024-11-16T20:15:35.091Z [info]: Server is running on port 2000
+2024-11-16T20:19:28.213Z [info]: User logged in: mitesh123@gmail.com
+2024-11-16T20:50:41.770Z [info]: Database connected
+2024-11-16T20:50:41.777Z [info]: Server is running on port 2000
+2024-11-16T20:52:09.588Z [info]: Database connected
+2024-11-16T20:52:09.598Z [info]: Server is running on port 2000
+2024-11-16T20:53:17.921Z [info]: Database connected
+2024-11-16T20:53:17.929Z [info]: Server is running on port 2000
+2024-11-16T20:53:57.550Z [info]: Database connected
+2024-11-16T20:53:57.556Z [info]: Server is running on port 2000
+2024-11-16T20:55:31.539Z [info]: Database connected
+2024-11-16T20:55:31.546Z [info]: Server is running on port 2000
+2024-11-16T20:56:06.881Z [info]: Database connected
+2024-11-16T20:56:06.885Z [info]: Server is running on port 2000
+2024-11-16T20:57:21.682Z [info]: Database connected
+2024-11-16T20:57:21.687Z [info]: Server is running on port 2000
+2024-11-16T20:58:40.058Z [info]: Database connected
+2024-11-16T20:58:40.067Z [info]: Server is running on port 2000
+2024-11-16T21:12:58.290Z [info]: Database connected
+2024-11-16T21:12:58.298Z [info]: Server is running on port 2000
+2024-11-16T21:13:07.617Z [info]: Database connected
+2024-11-16T21:13:07.626Z [info]: Server is running on port 2000
+2024-11-16T21:38:02.295Z [info]: User logged in: mitesh123@gmail.com
+2024-11-16T21:38:49.605Z [info]: Database connected
+2024-11-16T21:38:49.615Z [info]: Server is running on port 2000
+2024-11-16T21:43:58.342Z [info]: Database connected
+2024-11-16T21:43:58.350Z [info]: Server is running on port 2000
+2024-11-16T21:43:59.853Z [info]: Database connected
+2024-11-16T21:43:59.863Z [info]: Server is running on port 2000
+2024-11-16T21:45:13.502Z [info]: Database connected
+2024-11-16T21:45:13.512Z [info]: Server is running on port 2000
+2024-11-16T21:47:11.007Z [info]: Database connected
+2024-11-16T21:47:11.016Z [info]: Server is running on port 2000
+2024-11-16T21:47:33.863Z [info]: Database connected
+2024-11-16T21:47:33.876Z [info]: Server is running on port 2000
+2024-11-16T21:49:14.150Z [info]: User logged in: miteshdixit741@gmail.com
+2024-11-16T21:50:48.912Z [info]: Database connected
+2024-11-16T21:50:48.920Z [info]: Server is running on port 2000
+2024-11-16T21:51:43.103Z [info]: Database connected
+2024-11-16T21:51:43.110Z [info]: Server is running on port 2000
+2024-11-16T21:52:08.994Z [info]: Database connected
+2024-11-16T21:52:09.003Z [info]: Server is running on port 2000
+2024-11-16T21:53:27.627Z [info]: Database connected
+2024-11-16T21:53:27.639Z [info]: Server is running on port 2000
+2024-11-16T21:53:48.662Z [info]: Database connected
+2024-11-16T21:53:48.668Z [info]: Server is running on port 2000
+2024-11-16T22:02:19.665Z [info]: Database connected
+2024-11-16T22:02:19.675Z [info]: Server is running on port 2000
+2024-11-16T22:02:36.588Z [info]: Database connected
+2024-11-16T22:02:36.597Z [info]: Server is running on port 2000
+2024-11-16T22:06:52.092Z [info]: Database connected
+2024-11-16T22:06:52.100Z [info]: Server is running on port 2000
+2024-11-16T22:07:13.990Z [info]: Database connected
+2024-11-16T22:07:13.998Z [info]: Server is running on port 2000
+2024-11-16T22:08:52.689Z [info]: Database connected
+2024-11-16T22:08:52.701Z [info]: Server is running on port 2000
+2024-11-16T22:09:54.871Z [info]: Database connected
+2024-11-16T22:09:54.880Z [info]: Server is running on port 2000
+2024-11-16T22:10:04.812Z [info]: Database connected
+2024-11-16T22:10:04.818Z [info]: Server is running on port 2000
+2024-11-16T22:11:05.656Z [info]: Database connected
+2024-11-16T22:11:05.665Z [info]: Server is running on port 2000
+2024-11-16T22:11:37.960Z [info]: Database connected
+2024-11-16T22:11:37.970Z [info]: Server is running on port 2000
+2024-11-16T22:16:47.591Z [info]: Database connected
+2024-11-16T22:16:47.601Z [info]: Server is running on port 2000
+2024-11-16T22:21:26.706Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-16T22:21:26.714Z [info]: Server is running on port 2000
+2024-11-16T22:21:34.660Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-16T22:21:34.669Z [info]: Server is running on port 2000
+2024-11-16T22:22:08.382Z [info]: Database connected
+2024-11-16T22:22:08.399Z [info]: Server is running on port 2000
+2024-11-16T22:30:54.862Z [info]: Database connected
+2024-11-16T22:30:54.872Z [info]: Server is running on port 2000
+2024-11-16T22:31:19.077Z [info]: Database connected
+2024-11-16T22:31:19.089Z [info]: Server is running on port 2000
+2024-11-16T22:38:01.880Z [info]: Database connected
+2024-11-16T22:38:01.890Z [info]: Server is running on port 2000
+2024-11-16T22:38:30.048Z [info]: Database connected
+2024-11-16T22:38:30.057Z [info]: Server is running on port 2000
+2024-11-16T22:47:55.546Z [info]: Database connected
+2024-11-16T22:47:55.555Z [info]: Server is running on port 2000
+2024-11-16T22:48:37.149Z [info]: Database connected
+2024-11-16T22:48:37.158Z [info]: Server is running on port 2000
+2024-11-16T22:49:17.345Z [info]: Database connected
+2024-11-16T22:49:17.353Z [info]: Server is running on port 2000
+2024-11-17T07:40:10.885Z [info]: Database connected
+2024-11-17T07:40:10.894Z [info]: Server is running on port 2000
+2024-11-17T07:41:32.134Z [info]: Database connected
+2024-11-17T07:41:32.140Z [info]: Server is running on port 2000
+2024-11-17T07:43:23.113Z [info]: Database connected
+2024-11-17T07:43:23.122Z [info]: Server is running on port 2000
+2024-11-17T07:50:47.235Z [info]: Database connected
+2024-11-17T07:50:47.245Z [info]: Server is running on port 2000
+2024-11-17T07:50:49.366Z [info]: Database connected
+2024-11-17T07:50:49.374Z [info]: Server is running on port 2000
+2024-11-17T07:51:51.498Z [info]: Database connected
+2024-11-17T07:51:51.507Z [info]: Server is running on port 2000
+2024-11-17T07:52:13.250Z [info]: Database connected
+2024-11-17T07:52:13.259Z [info]: Server is running on port 2000
+2024-11-17T07:52:15.627Z [info]: Database connected
+2024-11-17T07:52:15.637Z [info]: Server is running on port 2000
+2024-11-17T07:52:54.582Z [info]: Database connected
+2024-11-17T07:52:54.589Z [info]: Server is running on port 2000
+2024-11-17T07:53:06.991Z [info]: Database connected
+2024-11-17T07:53:07.001Z [info]: Server is running on port 2000
+2024-11-17T07:55:35.418Z [info]: Database connected
+2024-11-17T07:55:35.428Z [info]: Server is running on port 2000
+2024-11-17T07:55:58.685Z [info]: Database connected
+2024-11-17T07:55:58.693Z [info]: Server is running on port 2000
+2024-11-17T07:57:37.782Z [info]: Database connected
+2024-11-17T07:57:37.792Z [info]: Server is running on port 2000
+2024-11-17T07:57:51.170Z [info]: Database connected
+2024-11-17T07:57:51.178Z [info]: Server is running on port 2000
+2024-11-17T07:58:00.929Z [info]: Database connected
+2024-11-17T07:58:00.938Z [info]: Server is running on port 2000
+2024-11-17T07:58:29.921Z [info]: Database connected
+2024-11-17T07:58:29.929Z [info]: Server is running on port 2000
+2024-11-17T11:40:00.747Z [error]: Database connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-11-17T11:40:00.770Z [info]: Server is running on port 2000
+2024-11-17T11:40:37.038Z [error]: Database connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-11-17T11:40:37.053Z [info]: Server is running on port 2000
+2024-11-17T11:41:51.178Z [error]: Operation `users.findOne()` buffering timed out after 10000ms
+2024-11-17T11:55:51.910Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T11:55:51.918Z [info]: Server is running on port 2000
+2024-11-17T11:56:05.008Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T11:56:05.016Z [info]: Server is running on port 2000
+2024-11-17T11:57:14.098Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T11:57:14.103Z [info]: Server is running on port 2000
+2024-11-17T11:57:23.103Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T11:57:23.111Z [info]: Server is running on port 2000
+2024-11-17T11:58:15.225Z [error]: Database connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-11-17T11:58:15.246Z [info]: Server is running on port 2000
+2024-11-17T12:01:25.507Z [error]: Database connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-11-17T12:01:25.519Z [info]: Server is running on port 2000
+2024-11-17T12:05:07.655Z [error]: Database connection error:  querySrv ETIMEOUT _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T12:05:07.665Z [info]: Server is running on port 2000
+2024-11-17T17:55:28.519Z [error]: Database connection error:  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2024-11-17T17:55:28.559Z [info]: Server is running on port 2000
+2024-11-17T18:53:47.521Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2024-11-17T18:53:47.536Z [info]: Server is running on port 2000
+2024-11-17T18:56:16.834Z [info]: Database connected
+2024-11-17T18:56:16.842Z [info]: Server is running on port 2000
+2024-11-17T19:07:15.339Z [info]: Database connected
+2024-11-17T19:07:15.349Z [info]: Server is running on port 2000
+2024-11-17T19:07:22.210Z [info]: Database connected
+2024-11-17T19:07:22.221Z [info]: Server is running on port 2000
+2024-11-17T19:14:13.985Z [info]: Database connected
+2024-11-17T19:14:13.998Z [info]: Server is running on port 2000
+2024-11-17T19:17:36.407Z [info]: Database connected
+2024-11-17T19:17:36.421Z [info]: Server is running on port 2000
+2024-11-17T19:21:30.945Z [info]: Database connected
+2024-11-17T19:21:30.955Z [info]: Server is running on port 2000
+2024-11-17T19:21:37.052Z [info]: Database connected
+2024-11-17T19:21:37.061Z [info]: Server is running on port 2000
+2024-11-17T19:23:20.669Z [info]: Database connected
+2024-11-17T19:23:20.675Z [info]: Server is running on port 2000
+2024-11-17T19:23:57.945Z [info]: Database connected
+2024-11-17T19:23:57.970Z [info]: Server is running on port 2000
+2024-11-17T19:24:25.412Z [info]: New Shop registered: mirhs
+2024-11-17T19:24:25.776Z [info]: New user registered: MITESHDIXIT1@GMAIL.COM
+2024-11-17T19:40:34.885Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T11:00:01.281Z [info]: Database connected
+2024-11-18T11:00:01.289Z [info]: Server is running on port 2000
+2024-11-18T11:00:46.963Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T11:38:04.424Z [info]: Database connected
+2024-11-18T11:38:04.431Z [info]: Server is running on port 2000
+2024-11-18T11:40:23.417Z [info]: Database connected
+2024-11-18T11:40:23.421Z [info]: Server is running on port 2000
+2024-11-18T11:44:18.018Z [info]: Database connected
+2024-11-18T11:44:18.027Z [info]: Server is running on port 2000
+2024-11-18T11:45:00.778Z [info]: Database connected
+2024-11-18T11:45:00.785Z [info]: Server is running on port 2000
+2024-11-18T11:52:58.376Z [info]: Database connected
+2024-11-18T11:52:58.380Z [info]: Server is running on port 2000
+2024-11-18T11:54:39.569Z [info]: Database connected
+2024-11-18T11:54:39.578Z [info]: Server is running on port 2000
+2024-11-18T11:55:36.301Z [info]: Database connected
+2024-11-18T11:55:36.306Z [info]: Server is running on port 2000
+2024-11-18T12:00:22.725Z [info]: Database connected
+2024-11-18T12:00:22.733Z [info]: Server is running on port 2000
+2024-11-18T12:01:14.415Z [info]: Database connected
+2024-11-18T12:01:14.428Z [info]: Server is running on port 2000
+2024-11-18T12:01:25.947Z [info]: Database connected
+2024-11-18T12:01:25.954Z [info]: Server is running on port 2000
+2024-11-18T12:02:53.553Z [info]: Database connected
+2024-11-18T12:02:53.562Z [info]: Server is running on port 2000
+2024-11-18T12:03:04.139Z [info]: Database connected
+2024-11-18T12:03:04.143Z [info]: Server is running on port 2000
+2024-11-18T12:09:28.900Z [info]: Database connected
+2024-11-18T12:09:28.905Z [info]: Server is running on port 2000
+2024-11-18T12:09:44.599Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T12:10:48.011Z [info]: Database connected
+2024-11-18T12:10:48.037Z [info]: Server is running on port 2000
+2024-11-18T12:13:21.719Z [info]: Database connected
+2024-11-18T12:13:21.728Z [info]: Server is running on port 2000
+2024-11-18T12:14:55.206Z [info]: Database connected
+2024-11-18T12:14:55.215Z [info]: Server is running on port 2000
+2024-11-18T12:15:54.536Z [info]: Database connected
+2024-11-18T12:15:54.548Z [info]: Server is running on port 2000
+2024-11-18T12:16:29.680Z [info]: Database connected
+2024-11-18T12:16:29.690Z [info]: Server is running on port 2000
+2024-11-18T12:18:29.852Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T12:21:46.141Z [info]: Database connected
+2024-11-18T12:21:46.152Z [info]: Server is running on port 2000
+2024-11-18T12:22:52.597Z [info]: Database connected
+2024-11-18T12:22:52.606Z [info]: Server is running on port 2000
+2024-11-18T12:23:56.909Z [info]: Database connected
+2024-11-18T12:23:56.920Z [info]: Server is running on port 2000
+2024-11-18T12:28:23.760Z [info]: Database connected
+2024-11-18T12:28:23.769Z [info]: Server is running on port 2000
+2024-11-18T12:33:36.073Z [info]: Database connected
+2024-11-18T12:33:36.081Z [info]: Server is running on port 2000
+2024-11-18T12:35:22.785Z [info]: Database connected
+2024-11-18T12:35:22.792Z [info]: Server is running on port 2000
+2024-11-18T12:39:05.572Z [info]: Database connected
+2024-11-18T12:39:05.583Z [info]: Server is running on port 2000
+2024-11-18T13:42:46.158Z [info]: Database connected
+2024-11-18T13:42:46.166Z [info]: Server is running on port 2000
+2024-11-18T13:43:43.680Z [info]: Database connected
+2024-11-18T13:43:43.688Z [info]: Server is running on port 2000
+2024-11-18T13:49:08.942Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T13:52:42.382Z [info]: Database connected
+2024-11-18T13:52:42.392Z [info]: Server is running on port 2000
+2024-11-18T13:54:20.244Z [info]: Database connected
+2024-11-18T13:54:20.257Z [info]: Server is running on port 2000
+2024-11-18T13:56:10.608Z [info]: Database connected
+2024-11-18T13:56:10.618Z [info]: Server is running on port 2000
+2024-11-18T13:56:28.040Z [info]: Database connected
+2024-11-18T13:56:28.054Z [info]: Server is running on port 2000
+2024-11-18T20:24:48.537Z [info]: Database connected
+2024-11-18T20:24:48.555Z [info]: Server is running on port 2000
+2024-11-18T20:32:42.097Z [info]: Database connected
+2024-11-18T20:32:42.103Z [info]: Server is running on port 2000
+2024-11-18T20:32:59.791Z [info]: Database connected
+2024-11-18T20:32:59.802Z [info]: Server is running on port 2000
+2024-11-18T20:33:07.547Z [info]: Database connected
+2024-11-18T20:33:07.558Z [info]: Server is running on port 2000
+2024-11-18T20:33:24.913Z [info]: Database connected
+2024-11-18T20:33:24.923Z [info]: Server is running on port 2000
+2024-11-18T20:36:34.713Z [info]: Database connected
+2024-11-18T20:36:34.720Z [info]: Server is running on port 2000
+2024-11-18T20:38:00.591Z [info]: Database connected
+2024-11-18T20:38:00.597Z [info]: Server is running on port 2000
+2024-11-18T20:41:51.678Z [info]: Database connected
+2024-11-18T20:41:51.689Z [info]: Server is running on port 2000
+2024-11-18T20:42:41.024Z [info]: Database connected
+2024-11-18T20:42:41.031Z [info]: Server is running on port 2000
+2024-11-18T20:43:40.526Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-11-18T21:12:16.426Z [info]: User logged in: pranjal@gmail.com
+2024-11-18T21:14:21.493Z [info]: Database connected
+2024-11-18T21:14:21.501Z [info]: Server is running on port 2000
+2024-11-18T21:14:57.952Z [info]: Database connected
+2024-11-18T21:14:57.959Z [info]: Server is running on port 2000
+2024-11-18T21:15:59.816Z [info]: Database connected
+2024-11-18T21:15:59.828Z [info]: Server is running on port 2000
+2024-11-18T21:16:54.118Z [info]: Database connected
+2024-11-18T21:16:54.132Z [info]: Server is running on port 2000
+2024-11-18T21:22:59.472Z [info]: Database connected
+2024-11-18T21:22:59.481Z [info]: Server is running on port 2000
+2024-11-18T21:23:07.526Z [info]: Database connected
+2024-11-18T21:23:07.536Z [info]: Server is running on port 2000
+2024-11-19T05:21:27.099Z [info]: Database connected
+2024-11-19T05:21:27.107Z [info]: Server is running on port 2000
+2024-11-19T11:54:24.920Z [info]: User logged in: pranjal@gmail.com
+2024-11-19T12:54:01.990Z [info]: Database connected
+2024-11-19T12:54:02.002Z [info]: Server is running on port 2000
+2024-11-19T14:09:20.981Z [info]: Database connected
+2024-11-19T14:09:20.992Z [info]: Server is running on port 2000
+2024-11-19T14:12:02.128Z [info]: Database connected
+2024-11-19T14:12:02.136Z [info]: Server is running on port 2000
+2024-11-19T14:12:26.723Z [info]: Database connected
+2024-11-19T14:12:26.734Z [info]: Server is running on port 2000
+2024-11-19T14:12:41.393Z [info]: Database connected
+2024-11-19T14:12:41.405Z [info]: Server is running on port 2000
+2024-11-19T14:13:23.802Z [info]: Database connected
+2024-11-19T14:13:23.809Z [info]: Server is running on port 2000
+2024-11-19T14:15:04.382Z [info]: Database connected
+2024-11-19T14:15:04.391Z [info]: Server is running on port 2000
+2024-11-19T14:19:40.974Z [info]: Database connected
+2024-11-19T14:19:40.982Z [info]: Server is running on port 2000
+2024-11-19T14:20:37.404Z [info]: Database connected
+2024-11-19T14:20:37.414Z [info]: Server is running on port 2000
+2024-11-19T14:21:23.672Z [info]: Database connected
+2024-11-19T14:21:23.683Z [info]: Server is running on port 2000
+2024-11-19T14:23:21.144Z [info]: Database connected
+2024-11-19T14:23:21.157Z [info]: Server is running on port 2000
+2024-11-19T14:24:13.571Z [info]: Database connected
+2024-11-19T14:24:13.578Z [info]: Server is running on port 2000
+2024-11-19T14:25:45.977Z [info]: Database connected
+2024-11-19T14:25:45.986Z [info]: Server is running on port 2000
+2024-11-19T15:34:45.902Z [info]: Database connected
+2024-11-19T15:34:45.913Z [info]: Server is running on port 2000
+2024-11-19T15:38:26.912Z [info]: Database connected
+2024-11-19T15:38:26.920Z [info]: Server is running on port 2000
+2024-11-19T15:40:39.009Z [info]: Database connected
+2024-11-19T15:40:39.017Z [info]: Server is running on port 2000
+2024-11-19T15:41:39.042Z [info]: Database connected
+2024-11-19T15:41:39.052Z [info]: Server is running on port 2000
+2024-11-21T19:29:59.002Z [info]: Database connected
+2024-11-21T19:29:59.011Z [info]: Server is running on port 2000
+2024-11-21T19:35:16.807Z [info]: User logged in: pranjal@gmail.com
+2024-11-22T10:22:12.686Z [info]: Database connected
+2024-11-22T10:22:12.694Z [info]: Server is running on port 2000
+2024-11-22T12:59:45.338Z [info]: Database connected
+2024-11-22T12:59:45.347Z [info]: Server is running on port 2000
+2024-12-15T19:49:20.853Z [info]: Database connected
+2024-12-15T19:49:20.867Z [info]: Server is running on port 2000
+2024-12-15T20:07:18.379Z [info]: Database connected
+2024-12-15T20:07:18.388Z [info]: Server is running on port 2000
+2024-12-15T20:10:00.913Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-15T20:10:17.851Z [info]: User logged in: MITESHDIXIT2001@GMAIL.COM
+2024-12-15T20:13:38.252Z [info]: User logged in: miteshdixit741@gmail.com
+2024-12-15T20:28:19.404Z [info]: User logged in: MITESHDIXIT2001@GMAIL.COM
+2024-12-15T21:18:23.805Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-15T21:19:07.325Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-16T20:52:30.104Z [info]: Database connected
+2024-12-16T20:52:30.113Z [info]: Server is running on port 2000
+2024-12-16T21:30:55.054Z [info]: Database connected
+2024-12-16T21:30:55.064Z [info]: Server is running on port 2000
+2024-12-16T21:31:42.729Z [info]: Database connected
+2024-12-16T21:31:42.739Z [info]: Server is running on port 2000
+2024-12-16T21:31:51.524Z [info]: Database connected
+2024-12-16T21:31:51.532Z [info]: Server is running on port 2000
+2024-12-16T21:32:12.375Z [info]: Database connected
+2024-12-16T21:32:12.382Z [info]: Server is running on port 2000
+2024-12-16T21:32:36.236Z [info]: Database connected
+2024-12-16T21:32:36.245Z [info]: Server is running on port 2000
+2024-12-16T21:32:51.826Z [info]: Database connected
+2024-12-16T21:32:51.835Z [info]: Server is running on port 2000
+2024-12-16T21:33:04.871Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-16T21:33:51.326Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-17T07:54:00.412Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-17T07:54:25.389Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2024-12-17T07:54:58.032Z [info]: User logged in: MITESHDIXIT1@GMAIL.COM
+2025-01-29T14:31:46.950Z [info]: Database connected
+2025-01-29T14:31:46.955Z [info]: Server is running on port 2000
+2025-01-29T14:36:23.882Z [info]: New user registered: usertester@gmail.com
+2025-01-29T14:36:44.568Z [info]: User logged in: usertester@gmail.com
+2025-01-29T14:56:54.982Z [info]: New Shop registered: all pupose general store
+2025-01-29T14:56:55.491Z [info]: New user registered: costomertester@gmail.com
+2025-01-29T14:57:24.265Z [info]: User logged in: costomertester@gmail.com
+2025-01-30T09:37:01.348Z [info]: User logged in: usertester@gmail.com
+2025-01-30T09:40:11.205Z [info]: User logged in: costomertester@gmail.com
+2025-01-30T09:40:47.594Z [info]: User logged in: usertester@gmail.com
+2025-01-30T09:42:45.622Z [info]: User logged in: costomertester@gmail.com
+2025-01-30T09:53:10.120Z [info]: User logged in: usertester@gmail.com
+2025-01-30T10:41:18.276Z [info]: User logged in: costomertester@gmail.com
+2025-02-13T20:29:20.400Z [error]: Database connection error:  querySrv ECONNREFUSED _mongodb._tcp.cluster0.tapks.mongodb.net
+2025-02-13T20:29:20.408Z [info]: Server is running on port 2000
+2025-02-13T20:32:40.234Z [info]: Database connected
+2025-02-13T20:32:40.244Z [info]: Server is running on port 2000
+2025-02-13T21:05:06.845Z [info]: New user registered: customer@gmail.com
+2025-02-13T21:05:53.269Z [info]: User logged in: customer@gmail.com
+2025-02-13T21:19:17.762Z [info]: User logged in: customer@gmail.com
+2025-02-13T21:23:08.423Z [info]: User logged in: customer@gmail.com
+2025-02-13T21:25:55.944Z [info]: User logged in: customer@gmail.com
+2025-02-13T21:26:23.706Z [info]: User logged in: customer@gmail.com
+2025-02-14T06:41:00.699Z [info]: Database connected
+2025-02-14T06:41:00.709Z [info]: Server is running on port 2000
+2025-02-14T06:41:05.140Z [info]: New Shop registered: dixit dairy
+2025-02-14T06:41:05.649Z [info]: New user registered: owner@gmail.com
+2025-02-14T08:42:35.562Z [info]: User logged in: owner@gmail.com
+2025-02-14T09:53:09.216Z [info]: User logged in: customer@gmail.com
+2025-02-14T09:54:42.150Z [info]: User logged in: owner@gmail.com
+2025-02-14T10:04:52.389Z [info]: Database connected
+2025-02-14T10:04:52.394Z [info]: Server is running on port 2000
+2025-02-14T10:06:58.760Z [info]: Database connected
+2025-02-14T10:06:58.764Z [info]: Server is running on port 2000
+2025-02-14T10:32:41.659Z [info]: Database connected
+2025-02-14T10:32:41.668Z [info]: Server is running on port 2000
+2025-02-14T10:32:56.994Z [info]: Database connected
+2025-02-14T10:32:57.003Z [info]: Server is running on port 2000
+2025-02-14T11:05:43.675Z [info]: Database connected
+2025-02-14T11:05:43.685Z [info]: Server is running on port 2000
+2025-02-14T11:09:36.571Z [info]: Database connected
+2025-02-14T11:09:36.581Z [info]: Server is running on port 2000
+2025-02-14T11:10:05.311Z [info]: Database connected
+2025-02-14T11:10:05.316Z [info]: Server is running on port 2000
+2025-02-14T11:10:42.043Z [info]: Database connected
+2025-02-14T11:10:42.057Z [info]: Server is running on port 2000
+2025-02-14T11:13:57.835Z [info]: Database connected
+2025-02-14T11:13:57.844Z [info]: Server is running on port 2000
+2025-02-14T11:14:08.347Z [info]: Database connected
+2025-02-14T11:14:08.354Z [info]: Server is running on port 2000
+2025-02-14T11:18:35.922Z [info]: Database connected
+2025-02-14T11:18:35.934Z [info]: Server is running on port 2000
+2025-02-14T11:18:59.945Z [info]: Database connected
+2025-02-14T11:18:59.956Z [info]: Server is running on port 2000
+2025-02-14T11:19:33.459Z [info]: Database connected
+2025-02-14T11:19:33.469Z [info]: Server is running on port 2000
+2025-02-14T11:20:29.551Z [info]: Database connected
+2025-02-14T11:20:29.560Z [info]: Server is running on port 2000
+2025-02-14T11:25:10.046Z [info]: User logged in: customer@gmail.com
+2025-02-14T11:25:29.775Z [info]: User logged in: customer@gmail.com
+2025-02-14T11:44:08.083Z [info]: Database connected
+2025-02-14T11:44:08.092Z [info]: Server is running on port 2000
+2025-02-14T11:47:42.191Z [info]: Database connected
+2025-02-14T11:47:42.205Z [info]: Server is running on port 2000
+2025-02-14T11:48:24.576Z [info]: Database connected
+2025-02-14T11:48:24.590Z [info]: Server is running on port 2000
+2025-02-14T11:52:43.356Z [info]: Database connected
+2025-02-14T11:52:43.367Z [info]: Server is running on port 2000
+2025-02-14T11:54:00.723Z [info]: Database connected
+2025-02-14T11:54:00.732Z [info]: Server is running on port 2000
+2025-02-14T11:54:14.926Z [info]: Database connected
+2025-02-14T11:54:14.935Z [info]: Server is running on port 2000
+2025-02-14T11:57:06.623Z [info]: Database connected
+2025-02-14T11:57:06.632Z [info]: Server is running on port 2000
+2025-02-14T11:59:47.693Z [info]: Database connected
+2025-02-14T11:59:47.704Z [info]: Server is running on port 2000
+2025-02-14T12:01:33.332Z [info]: Database connected
+2025-02-14T12:01:33.342Z [info]: Server is running on port 2000
+2025-02-14T12:03:52.861Z [info]: Database connected
+2025-02-14T12:03:52.874Z [info]: Server is running on port 2000
+2025-02-14T12:08:51.464Z [info]: User logged in: owner@gmail.com
+2025-02-14T12:10:02.004Z [info]: Database connected
+2025-02-14T12:10:02.014Z [info]: Server is running on port 2000
+2025-02-15T17:33:33.390Z [info]: Database connected
+2025-02-15T17:33:33.398Z [info]: Server is running on port 2000
+2025-02-15T17:45:37.352Z [info]: User logged in: owner@gmail.com
+2025-02-17T14:45:06.744Z [info]: Database connected
+2025-02-17T14:45:06.753Z [info]: Server is running on port 2000
+2025-02-17T18:51:15.147Z [info]: User logged in: owner@gmail.com
+2025-02-17T20:03:47.850Z [info]: User logged in: owner@gmail.com
